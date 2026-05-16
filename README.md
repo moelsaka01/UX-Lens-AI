@@ -305,16 +305,6 @@ Feedback-aware ranking
 Optional external image providers
 Screenshots
 
-Add screenshots here.
-
-![Dashboard](docs/screenshots/dashboard.png)
-
-![Analysis Results](docs/screenshots/analysis-results.png)
-
-![Redesign Preview](docs/screenshots/redesign-preview.png)
-
-![Overlay Preview](docs/screenshots/overlay-preview.png)
-
 ![Observability](docs/screenshots/observability.png)
 Local Setup
 1. Clone the repository
